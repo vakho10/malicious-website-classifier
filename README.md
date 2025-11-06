@@ -119,7 +119,7 @@ malicious-website-classifier/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/malicious-website-classifier.git
+git clone https://github.com/vakho10/malicious-website-classifier.git
 cd malicious-website-classifier
 ```
 
@@ -684,7 +684,7 @@ SOFTWARE.
 
 For questions or issues:
 
-1. Check existing [GitHub Issues](https://github.com/yourusername/malicious-website-classifier/issues)
+1. Check existing [GitHub Issues](https://github.com/vakho10/malicious-website-classifier/issues)
 2. Create a new issue with detailed description
 3. Contact team members via GitHub
 
